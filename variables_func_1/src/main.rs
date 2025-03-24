@@ -111,7 +111,6 @@
 // println!("current time is {}", now)
 // }
 
-
 fn main(){
     let mut a = String::from("hello");
     print_b(&mut a);
