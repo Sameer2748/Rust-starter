@@ -46,10 +46,10 @@ test("Accoount is initialised", async()=>{
 })
 
 test("Test increment count", async () => {
-    // Create an increment instruction instance, e.g. increment by 1
+    // Create an increment instruction class
     const incInstruction = new IncrementInstruction({ value: 22 });
     
-    // Cast the Map to the expected borsh.Schema type to fix type errors
+    // the schema for instruction 
     const incrementSchema = instructionSchema as borsh.Schema;
     
     const serializedData = borsh.serialize(incrementSchema, incInstruction);
@@ -86,7 +86,7 @@ test("Test decrement count", async () => {
     // Create an increment instruction instance, e.g. increment by 1
     const decInstruction = new DecrementInstruction({ value: 10 });
     
-    // Cast the Map to the expected borsh.Schema type to fix type errors
+    // the schema for instruction 
     const decrementSchema = instructionSchema as borsh.Schema;
     
     const serializedData = borsh.serialize(decrementSchema, decInstruction);
