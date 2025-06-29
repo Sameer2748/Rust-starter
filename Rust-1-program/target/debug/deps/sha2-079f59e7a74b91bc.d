@@ -1,0 +1,11 @@
+/Users/manmohan/Desktop/web3/rust/Rust-1-program/target/debug/deps/libsha2-079f59e7a74b91bc.rmeta: /Users/manmohan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.10.8/src/lib.rs /Users/manmohan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.10.8/src/core_api.rs /Users/manmohan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.10.8/src/sha256.rs /Users/manmohan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.10.8/src/sha512.rs /Users/manmohan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.10.8/src/consts.rs /Users/manmohan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.10.8/src/sha256/soft.rs /Users/manmohan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.10.8/src/sha512/soft.rs
+
+/Users/manmohan/Desktop/web3/rust/Rust-1-program/target/debug/deps/sha2-079f59e7a74b91bc.d: /Users/manmohan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.10.8/src/lib.rs /Users/manmohan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.10.8/src/core_api.rs /Users/manmohan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.10.8/src/sha256.rs /Users/manmohan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.10.8/src/sha512.rs /Users/manmohan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.10.8/src/consts.rs /Users/manmohan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.10.8/src/sha256/soft.rs /Users/manmohan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.10.8/src/sha512/soft.rs
+
+/Users/manmohan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.10.8/src/lib.rs:
+/Users/manmohan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.10.8/src/core_api.rs:
+/Users/manmohan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.10.8/src/sha256.rs:
+/Users/manmohan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.10.8/src/sha512.rs:
+/Users/manmohan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.10.8/src/consts.rs:
+/Users/manmohan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.10.8/src/sha256/soft.rs:
+/Users/manmohan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.10.8/src/sha512/soft.rs:

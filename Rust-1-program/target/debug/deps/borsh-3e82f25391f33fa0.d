@@ -1,0 +1,11 @@
+/Users/manmohan/Desktop/web3/rust/Rust-1-program/target/debug/deps/libborsh-3e82f25391f33fa0.rmeta: /Users/manmohan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-0.9.3/src/lib.rs /Users/manmohan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-0.9.3/src/de/mod.rs /Users/manmohan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-0.9.3/src/de/hint.rs /Users/manmohan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-0.9.3/src/schema.rs /Users/manmohan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-0.9.3/src/schema_helpers.rs /Users/manmohan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-0.9.3/src/ser/mod.rs /Users/manmohan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-0.9.3/src/ser/helpers.rs
+
+/Users/manmohan/Desktop/web3/rust/Rust-1-program/target/debug/deps/borsh-3e82f25391f33fa0.d: /Users/manmohan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-0.9.3/src/lib.rs /Users/manmohan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-0.9.3/src/de/mod.rs /Users/manmohan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-0.9.3/src/de/hint.rs /Users/manmohan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-0.9.3/src/schema.rs /Users/manmohan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-0.9.3/src/schema_helpers.rs /Users/manmohan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-0.9.3/src/ser/mod.rs /Users/manmohan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-0.9.3/src/ser/helpers.rs
+
+/Users/manmohan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-0.9.3/src/lib.rs:
+/Users/manmohan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-0.9.3/src/de/mod.rs:
+/Users/manmohan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-0.9.3/src/de/hint.rs:
+/Users/manmohan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-0.9.3/src/schema.rs:
+/Users/manmohan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-0.9.3/src/schema_helpers.rs:
+/Users/manmohan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-0.9.3/src/ser/mod.rs:
+/Users/manmohan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-0.9.3/src/ser/helpers.rs:
