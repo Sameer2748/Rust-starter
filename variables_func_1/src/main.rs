@@ -111,12 +111,16 @@
 // println!("current time is {}", now)
 // }
 
+// fn main(){
+//     let mut a = String::from("hello");
+//     print_b(&mut a);
+//     println!("num is {}", a);
+// }
+// fn print_b(b: &mut String) {
+//     b.push_str(" sameer");
+//     println!("value of  b is {}", b);
+// }
+
 fn main(){
-    let mut a = String::from("hello");
-    print_b(&mut a);
-    println!("num is {}", a);
-}
-fn print_b(b: &mut String) {
-    b.push_str(" sameer");
-    println!("value of  b is {}", b);
+    println!(",sjbdvdkbajs,mv")
 }
