@@ -1,0 +1,6 @@
+[package]
+name = "ch-10-Generics-traits-lifetimes"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
