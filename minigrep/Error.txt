@@ -1,0 +1,4 @@
+query Sameer
+for file Nancy.txt
+Dear Sameer,
+I love you a lot sameer,
