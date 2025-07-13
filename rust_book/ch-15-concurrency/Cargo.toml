@@ -7,3 +7,7 @@ edition = "2024"
 [[bin]]
 name = "channel"
 path = "src/channel.rs"
+
+[[bin]]
+name = "share-state"
+path = "src/sharing-state.rs"
